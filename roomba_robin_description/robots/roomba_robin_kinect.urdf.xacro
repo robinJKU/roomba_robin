@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+    - Base      : create
+    - Stacks    : robin
+    - 3d Sensor : kinect
+-->    
+<robot name="roomba_robin" xmlns:xacro="http://ros.org/wiki/xacro">
+
+  <xacro:include filename="$(find roomba_robin_description)/urdf/robin_library.urdf.xacro" />
+
+  <create/>
+  <stack_robin parent="base_link"/>
+  <sensor_kinect  parent="base_link"/>
+</robot>

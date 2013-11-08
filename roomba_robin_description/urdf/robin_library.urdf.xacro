@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+  The complete turtlebot library of xacros for easy reference
+ -->
+<robot xmlns:xacro="http://ros.org/wiki/xacro">
+  <!-- General -->
+  <xacro:include filename="$(find turtlebot_description)/urdf/common_properties.urdf.xacro"/>
+  <xacro:include filename="$(find roomba_robin_description)/urdf/robin_properties.urdf.xacro"/>
+  <!-- Bases -->
+  <xacro:include filename="$(find create_description)/urdf/create.urdf.xacro"/>
+  <!-- Stacks -->
+  <xacro:include filename="$(find roomba_robin_description)/urdf/stacks/robin.urdf.xacro"/>
+  <!-- 3D Sensors -->
+  <xacro:include filename="$(find turtlebot_description)/urdf/sensors/kinect.urdf.xacro"/>
+</robot>
