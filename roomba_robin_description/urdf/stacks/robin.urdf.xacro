@@ -20,7 +20,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/spacer_roomba_plate0.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/spacer_roomba_plate0.stl"/>
         </geometry>
       </visual>
 
@@ -52,7 +52,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/standoff_100.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/standoff_100.stl"/>
         </geometry>
       </visual>
 
@@ -84,7 +84,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/standoff_150.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/standoff_150.stl"/>
         </geometry>
       </visual>
 
@@ -117,7 +117,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/standoff_200.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/standoff_200.stl"/>
         </geometry>
       </visual>
 
@@ -149,7 +149,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/standoff_100.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/standoff_100.stl"/>
         </geometry>
       </visual>
 
@@ -187,7 +187,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/plate0.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/plate0.stl"/>
         </geometry>
       </visual>
 
@@ -222,7 +222,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/plate1.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/plate1.stl"/>
         </geometry>
       </visual>
 
@@ -257,7 +257,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/plate2.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/plate2.stl"/>
         </geometry>
       </visual>
 
@@ -296,7 +296,7 @@
       <visual>
         <origin xyz=" 0 0 0 " rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://turtlebot_description/meshes/stacks/robin/plate3.stl"/>
+          <mesh filename="package://roomba_robin_description/meshes/stacks/robin/plate3.stl"/>
         </geometry>
       </visual>
 
