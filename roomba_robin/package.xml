@@ -12,9 +12,6 @@
   <url type="bugtracker">https://github.com/robinJKU/roomba_robin/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>turtlebot_bringup</run_depend>
-  <run_depend>linux_hardware</run_depend>
-  <run_depend>turtlebot_description</run_depend>
   <run_depend>roomba_robin_description</run_depend>
   <run_depend>roomba_robin_bringup</run_depend>
 
