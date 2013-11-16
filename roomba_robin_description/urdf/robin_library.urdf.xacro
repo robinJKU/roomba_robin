@@ -11,5 +11,5 @@
   <!-- Stacks -->
   <xacro:include filename="$(find roomba_robin_description)/urdf/stacks/robin.urdf.xacro"/>
   <!-- 3D Sensors -->
-  <xacro:include filename="$(find roomba_robin_description)/urdf/sensors/kinect.urdf.xacro"/>
+  <xacro:include filename="$(find turtlebot_description)/urdf/sensors/kinect.urdf.xacro"/>
 </robot>
